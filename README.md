@@ -1,16 +1,26 @@
-## Hi there 👋
+## Maria Eduarda Lemos
+Eu sou estudante de gestão de T.I., meu foco é melhorar em programação e explorar cada vez mais as areas de T.I.
 
-<!--
-**MariaLemos99/MariaLemos99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estatísticas
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10 px;" 
+    src="https://github-readme-stats.vercel.app/api?username=MariaLemos99&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-Here are some ideas to get you started:
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaLemos99&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+<div>
+<a href = "mailto:dudalemospelegrin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/maria-eduarda-lemos-39420b327" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
